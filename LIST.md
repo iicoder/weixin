@@ -7,9 +7,9 @@
 
 ## 翻译列表
 
-- [json-web-tokens-jwt-vs-sessions.md](./master/100001.tran.json-web-tokens-jwt-vs-sessions.md) - Jacek Ciolek － [原文链接](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
+- [json-web-tokens-jwt-vs-sessions.md](./100001.tran.json-web-tokens-jwt-vs-sessions.md) - Jacek Ciolek － [原文链接](https://float-middle.com/json-web-tokens-jwt-vs-sessions/)
 
 
 ## 转载列表
 
-- [JSONWebToken在Web应用间安全地传递信息.md](/master/100002.repost.JSONWebToken在Web应用间安全地传递信息.md) - John Wu － [原文链接](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)
+- [JSONWebToken在Web应用间安全地传递信息.md](./100002.repost.JSONWebToken在Web应用间安全地传递信息.md) - John Wu － [原文链接](http://blog.leapoahead.com/2015/09/06/understanding-jwt/)

@@ -7,10 +7,10 @@
 
 ## 翻译列表
 {% for tran in tranlist %}
-- [{{tran.title}}](./master/{{tran.file}}) - {{tran.author}} － [原文链接]({{tran.link}})
+- [{{tran.title}}](./{{tran.file}}) - {{tran.author}} － [原文链接]({{tran.link}})
 {% endfor %}
 
 ## 转载列表
 {% for post in reposts %}
-- [{{post.title}}](/master/{{post.file}}) - {{post.author}} － [原文链接]({{post.link}})
+- [{{post.title}}](./{{post.file}}) - {{post.author}} － [原文链接]({{post.link}})
 {% endfor %}
